@@ -78,7 +78,7 @@ body {
     margin-top: 5px;
     background: url('../img/paperBg.jpg');
     background-size: cover;
-    
+
   }
 
   .modal-content img{
@@ -267,7 +267,7 @@ p, li, a {
 }
 
 @media (max-width: 325px ) {
-   
+
    .m-space {
     margin-top: 15px;
     }
@@ -592,7 +592,7 @@ box-shadow: -4px 4px 8px rgb(193, 193, 193);
 @media (max-width: 400px) {
   .modal-body {
   padding: 5%;
-  
+
   }
 }
 
